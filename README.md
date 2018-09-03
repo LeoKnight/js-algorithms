@@ -1,1 +1,3 @@
-# js_algorithms
+# Algorithms in js
+
+daily update
